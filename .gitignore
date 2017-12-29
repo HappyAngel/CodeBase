@@ -1,0 +1,7 @@
+*.class
+*.log
+/target/*
+/CodecUtil/target/*
+/.idea/*
+/project/target/*
+/project/project/target/*
