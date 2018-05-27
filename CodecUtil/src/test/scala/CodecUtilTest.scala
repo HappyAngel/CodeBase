@@ -5,6 +5,7 @@ import org.scalatest.{FlatSpec, Matchers}
 /**
   * Created by xionglei on 17-12-29.
   */
+
 class CodecUtilTest extends FlatSpec with Matchers {
     "Base64 util" should "generate right md5 string" in {
         val originStr = "hello world"

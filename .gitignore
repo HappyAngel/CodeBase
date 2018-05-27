@@ -2,6 +2,7 @@
 *.log
 /target/*
 /CodecUtil/target/*
+/BasicUtil/target/*
 /.idea/*
 /project/target/*
 /project/project/target/*
